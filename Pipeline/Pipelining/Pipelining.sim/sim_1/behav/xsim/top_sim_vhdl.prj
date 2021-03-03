@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Pipelining.srcs/sources_1/new/adder.vhd" \
+"../../../../Pipelining.srcs/sources_1/new/esercizio_4.vhd" \
+"../../../../Pipelining.srcs/sources_1/new/multiplier.vhd" \
+"../../../../Pipelining.srcs/sim_1/new/top_sim.vhd" \
+
+# Do not sort compile order
+nosort

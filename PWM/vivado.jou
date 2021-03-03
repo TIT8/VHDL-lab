@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:07 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Wed Nov 20 11:51:10 2019
+# Process ID: 22022
+# Current directory: /run/user/1000/gvfs/smb-share:server=10.100.0.3,share=laboratorio/Reserved/Special/Didattica/2019-2020/SED I/Laboratorio/Esercizi/04 - PWM/PWM
+# Command line: vivado PWM.xpr
+# Log file: /run/user/1000/gvfs/smb-share:server=10.100.0.3,share=laboratorio/Reserved/Special/Didattica/2019-2020/SED I/Laboratorio/Esercizi/04 - PWM/PWM/vivado.log
+# Journal file: /run/user/1000/gvfs/smb-share:server=10.100.0.3,share=laboratorio/Reserved/Special/Didattica/2019-2020/SED I/Laboratorio/Esercizi/04 - PWM/PWM/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project PWM.xpr
+update_compile_order -fileset sources_1
+launch_simulation

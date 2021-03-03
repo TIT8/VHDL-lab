@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Jan 15 01:15:16 2021
+# Process ID: 8116
+# Current directory: C:/Users/loren/Desktop/Lab/Adder/Adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7524 C:\Users\loren\Desktop\Lab\Adder\Adder\Adder.xpr
+# Log file: C:/Users/loren/Desktop/Lab/Adder/Adder/vivado.log
+# Journal file: C:/Users/loren/Desktop/Lab/Adder/Adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/loren/Desktop/Lab/Adder/Adder/Adder.xpr
+synth_design -rtl -name rtl_1
+launch_simulation
+source top_sim.tcl
+close_sim

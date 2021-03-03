@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/loren/Desktop/Lab/Filto_media_mobile/Filto_media_mobile.srcs/sources_1/new/MM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MM'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/loren/Desktop/Lab/Filto_media_mobile/Filto_media_mobile.srcs/sim_1/new/top_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top_sim'

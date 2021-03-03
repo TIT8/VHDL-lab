@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Tue Nov 12 22:31:15 2019
+# Process ID: 9124
+# Current directory: C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5352 C:\Users\Fabio\Downloads\04 - PWM\04 - PWM\PWM\PWM.xpr
+# Log file: C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/vivado.log
+# Journal file: C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.xpr}
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+synth_design -rtl -name rtl_1
+refresh_design
+refresh_design
+file mkdir C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new
+file mkdir C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new
+file mkdir C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new
+file mkdir C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new
+file mkdir C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+file mkdir C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new
+file mkdir {C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new}
+close [ open {C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new/top_sim.vhd} w ]
+add_files -fileset sim_1 {{C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/PWM.srcs/sim_1/new/top_sim.vhd}}
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+source top_sim.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+save_wave_config {C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/top_sim_behav.wcfg}
+add_files -fileset sim_1 -norecurse {{C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/top_sim_behav.wcfg}}
+set_property xsim.view {{C:/Users/Fabio/Downloads/04 - PWM/04 - PWM/PWM/top_sim_behav.wcfg}} [get_filesets sim_1]
+close_sim

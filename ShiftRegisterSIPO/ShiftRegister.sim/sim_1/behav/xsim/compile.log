@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/loren/Desktop/Lab/Shift_register/ShiftRegister/ShiftRegister.srcs/sources_1/new/ShiftRegisterSIPO.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ShiftRegisterSIPO
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/loren/Desktop/Lab/Shift_register/ShiftRegister/ShiftRegister.srcs/sources_1/new/ff_d.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ff_d
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/loren/Desktop/Lab/Shift_register/ShiftRegister/ShiftRegister.srcs/sim_1/new/top_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top_sim

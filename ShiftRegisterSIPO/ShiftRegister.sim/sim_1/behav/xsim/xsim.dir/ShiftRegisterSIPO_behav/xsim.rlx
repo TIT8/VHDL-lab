@@ -1,0 +1,12 @@
+
+{ 
+    crc :  629363297071101266  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto d8a8fc87e3a0483bb8092cc47d21bad7 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot ShiftRegisterSIPO_behav xil_defaultlib.ShiftRegisterSIPO" , 
+    buildDate : "Oct  4 2017" , 
+    buildTime : "20:01:51" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/ShiftRegisterSIPO_behav/xsimk\"   \"xsim.dir/ShiftRegisterSIPO_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/ShiftRegisterSIPO_behav/obj/xsim_1.lnx64.o\" \"/opt/Xilinx/Vivado/2017.3/lib/lnx64.o/librdi_simulator_kernel.so\" \"/opt/Xilinx/Vivado/2017.3/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

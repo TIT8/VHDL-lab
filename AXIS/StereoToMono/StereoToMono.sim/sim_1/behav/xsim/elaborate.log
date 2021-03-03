@@ -1,0 +1,7 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto ef947403dc034b2a9e3c6090490eb185 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot top_sim_behav xil_defaultlib.top_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+ERROR: [VRFC 10-3006] 'C:/Users/loren/Desktop/Lab/AXIS/StereoToMono/StereoToMono.sim/sim_1/behav/xsim/xsim.dir/xil_defaultlib/top_sim.vdb' needs to be re-saved since 'std.standard' changed
+ERROR: [VRFC 10-3032] 'xil_defaultlib.top_sim' failed to restore
+ERROR: [XSIM 43-3225] Cannot find design unit xil_defaultlib.top_sim in library work located at xsim.dir/work.
